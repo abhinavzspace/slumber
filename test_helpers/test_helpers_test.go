@@ -5,8 +5,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/sogko/slumber/middlewares/context"
-	"github.com/sogko/slumber/test_helpers"
+	"github.com/abhinavzspace/slumber/middlewares/context"
+	"github.com/abhinavzspace/slumber/test_helpers"
 )
 
 var _ = Describe("Test Helpers", func() {

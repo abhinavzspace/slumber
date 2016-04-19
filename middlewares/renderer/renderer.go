@@ -1,7 +1,7 @@
 package renderer
 
 import (
-	"github.com/sogko/slumber/domain"
+	"github.com/abhinavzspace/slumber/domain"
 	"github.com/unrolled/render"
 	"net/http"
 )

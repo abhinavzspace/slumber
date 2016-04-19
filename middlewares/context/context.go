@@ -2,7 +2,7 @@ package context
 
 import (
 	"github.com/gorilla/context"
-	"github.com/sogko/slumber/domain"
+	"github.com/abhinavzspace/slumber/domain"
 	"net/http"
 )
 
